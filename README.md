@@ -33,6 +33,7 @@ https://github.com/openvenues/pypostal.
 
 To start the demo, open Jupyter Lab:
 ```
+conda activate entity_matching_demo
 jupyter lab
 ```
 and navigate to `Entity_Matching_Tutorial.ipynb`
